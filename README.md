@@ -39,3 +39,8 @@ Docente: 𝕄.𝕋.𝕀 𝕄𝕒𝕣𝕔𝕠 𝔸𝕟𝕥𝕠𝕟𝕚𝕠 ℝ�
 Nombre Alum: 𝔼𝕕𝕖𝕣 𝕌𝕝𝕚𝕤𝕖𝕤 ℙ𝕖𝕣𝕖𝕫 𝕁𝕒𝕔𝕠𝕞𝕖
 
 Periodo: 𝕊𝕖𝕡𝕥𝕚𝕖𝕞𝕓𝕣𝕖-𝔻𝕚𝕔𝕚𝕖𝕞𝕓𝕣𝕖 𝟚𝟘𝟚𝟚
+
+![LOGO ANIVERSARIO jpg](https://user-images.githubusercontent.com/88748978/194598945-7cd9c77f-2110-49e0-a0b4-6942691f19d7.jpg)
+
+![LOGO UTXJ 2019](https://user-images.githubusercontent.com/88748978/194599010-64db1dff-2aaf-46d3-a732-7f2347e72588.png)
+
