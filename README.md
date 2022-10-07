@@ -8,6 +8,8 @@ La practica consiste en tener un boton flotante (Un botón de acción flotante (
 Herramientas.
 
 Visual Studio Code v1.68.1
+
+
 SDK FLUTTER  v3.3.4 (Flutter es un SDK de código fuente abierto de desarrollo de aplicaciones móviles creado por Google.)
 Dart v3.50.0
 
