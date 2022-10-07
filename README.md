@@ -40,7 +40,7 @@ Nombre Alum: 𝔼𝕕𝕖𝕣 𝕌𝕝𝕚𝕤𝕖𝕤 ℙ𝕖𝕣𝕖𝕫 𝕁�
 
 Periodo: 𝕊𝕖𝕡𝕥𝕚𝕖𝕞𝕓𝕣𝕖-𝔻𝕚𝕔𝕚𝕖𝕞𝕓𝕣𝕖 𝟚𝟘𝟚𝟚
 
-![LOGO ANIVERSARIO jpg](https://user-images.githubusercontent.com/88748978/194598945-7cd9c77f-2110-49e0-a0b4-6942691f19d7.jpg)
+![logoi](https://user-images.githubusercontent.com/88748978/194600258-b320c3d8-2682-49c4-94e7-232e05109d54.png =250x250)
 
-![LOGO UTXJ 2019](https://user-images.githubusercontent.com/88748978/194599010-64db1dff-2aaf-46d3-a732-7f2347e72588.png)
+
 
