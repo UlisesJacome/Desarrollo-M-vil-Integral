@@ -1,9 +1,11 @@
 # Desarrollo-Movil-Integral2
 Se denomina desarrollo de aplicaciones móviles al conjunto de conocimientos, técnicas y procesos necesarios para crear software simple que pueda ser usado en dispositivos móviles como por ejemplo tabletas y celulares.
 
-Eder Ulises Perez Jacome -- floating action button 190826
+Eder Ulises Perez Jacome -- Carrusel-imagenes 190826
 
-La practica consiste en tener un boton flotante (Un botón de acción flotante (FAB) realiza la acción principal o más común en una pantalla. Aparece delante de todo el contenido de la pantalla, normalmente como una forma circular con un icono en el centro. Los FAB vienen en tres tipos: regular, mini y extendido.) desplegable, mandando a 3 diferentes fracmentos de informacion, asi mismo ejecutar la accion de redirigir a el container seleccionado.
+La practica consiste en tener una lista de imagenes y al modemento de dar clic en el boton se cambie de imagen como en una secuencia de imagenes, 
+cuando termine de mostrar que se repita hasta que deje de precioanr el boton apra siguiente 
+
 
 Herramientas.
 
@@ -15,9 +17,9 @@ Dart v3.50.0
 
 Metodologia.
 
+se crea un alista de imagenes, asi mismo su carpeta para poder almacenarlas y despues llamarlas ejemplo (assets/images/Imagen.jpg)
+asi para todas las imagenes, enumerando en orden que quiera que aparezca.
 
-Algunas partes del codigo son por parte de informacion de la documentacion y de paginas externas pero seguras,
-para programar e boton se uso (floatingActionButton:) para poder dar la orden que ocupamos un boton flotante, asi mosmo la orden para que se desplegara en 3 nivelesmanteniendo 1 de base.
 
 Resultado 
 
